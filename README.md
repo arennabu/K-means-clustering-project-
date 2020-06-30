@@ -5,7 +5,11 @@ In this project, I will use K-Means Clustering to cluster Universities into to t
 
 ### Install
 `import pandas as pd`
+
 `import numpy as np`
+
 `import matplotlib.pyplot as plt`
+
 `import seaborn as sns`
+
 `from sklearn.cluster import KMeans`
